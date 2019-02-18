@@ -3,6 +3,9 @@ h1{
 }
 body{
   background-image: url('abandoned-ancient-antique-235986.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 1px
   background-size: 1300px;
 }
 *{
